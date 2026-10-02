@@ -2,4 +2,4 @@
 My name's Maura and I play soccer
 I really like sharks 
 My favorite food is lasagna
-![A picture I like](https://github.com/mbars013/FYE-/blob/main/Adobe%20Express%20-%20file.jpg)
+![A picture I like](Adobe Express - file.jpg) 
