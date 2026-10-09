@@ -3,4 +3,4 @@
 ## I really like sharks 
 ## My favorite food is lasagna
 ![me](https://github.com/mbars013/FYE-/blob/main/Adobe%20Express%20-%20file.jpg)
-<img src="imagename.filetype" alt="Alternate Text for webreaders" style="width:500px">
+
