@@ -2,5 +2,5 @@
 ## My name's Maura and I play soccer
 ## I really like sharks 
 ## My favorite food is lasagna
-![me](me!)
+![me](me.jpg)
 
